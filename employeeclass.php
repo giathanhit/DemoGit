@@ -28,7 +28,7 @@ class Employee extends Person{
         static $IDGen = 1;
         return $IDGen++;
     }
-    
+    //Test thử nè
 }
 
 ?>
